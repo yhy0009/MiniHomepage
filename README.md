@@ -12,4 +12,7 @@
 - 구매 페이지 이동
 
 ## 푸터
-- footer.md 추가
+- footer.md 
+
+## 사이드바 
+- sidebar.md 추가
