@@ -18,5 +18,4 @@
 - sidebar.md 추가
 
 ## 검색 기능 
-search.md 추가
-- footer.md
+- search.md 추가
